@@ -195,7 +195,7 @@ function change_color(element){
 </html>     
 ```
 ## OUTPUT:
-![OUPUT](O1.png)
+![OUPUT](O3.png)
 ![ouput](O2.png)
 
 ## Result:
